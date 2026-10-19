@@ -1,0 +1,278 @@
+split,class_name,label,source_long_id,source_wav_name,source_wav_relpath,source_duration_sec
+test,AMAGI GALAXY,0,Tanker||165_032319.wav,165_032319.wav,Tanker/165_032319.wav,7.0
+train,AMAGI GALAXY,0,Tanker||128_192900.wav,128_192900.wav,Tanker/128_192900.wav,317.0
+train,AMAGI GALAXY,0,Tanker||131_215556.wav,131_215556.wav,Tanker/131_215556.wav,7.0
+train,AMAGI GALAXY,0,Tanker||163_032310.wav,163_032310.wav,Tanker/163_032310.wav,6.0
+train,AMAGI GALAXY,0,Tanker||42_42.wav,42_42.wav,Tanker/42_42.wav,70.0
+train,AMAGI GALAXY,0,Tanker||71_234906.wav,71_234906.wav,Tanker/71_234906.wav,6.0
+train,AMAGI GALAXY,0,Tanker||98_021347.wav,98_021347.wav,Tanker/98_021347.wav,334.0
+val,AMAGI GALAXY,0,Tanker||69_153739.wav,69_153739.wav,Tanker/69_153739.wav,40.0
+test,ARGENT SUNRISE,1,Tanker||177_234708.wav,177_234708.wav,Tanker/177_234708.wav,24.0
+train,ARGENT SUNRISE,1,Tanker||153_090000.wav,153_090000.wav,Tanker/153_090000.wav,20.0
+train,ARGENT SUNRISE,1,Tanker||29_29.wav,29_29.wav,Tanker/29_29.wav,109.0
+train,ARGENT SUNRISE,1,Tanker||52_005212.wav,52_005212.wav,Tanker/52_005212.wav,42.0
+train,ARGENT SUNRISE,1,Tanker||57_202025.wav,57_202025.wav,Tanker/57_202025.wav,10.0
+val,ARGENT SUNRISE,1,Tanker||14_14.wav,14_14.wav,Tanker/14_14.wav,25.0
+test,CALVIN,2,Tug||58_020446.wav,58_020446.wav,Tug/58_020446.wav,564.0
+train,CALVIN,2,Tug||24_105442.wav,24_105442.wav,Tug/24_105442.wav,1750.0
+train,CALVIN,2,Tug||26_103033.wav,26_103033.wav,Tug/26_103033.wav,497.0
+train,CALVIN,2,Tug||66_110853.wav,66_110853.wav,Tug/66_110853.wav,644.0
+val,CALVIN,2,Tug||68_200347.wav,68_200347.wav,Tug/68_200347.wav,504.0
+test,CHEMBULK LINDY,3,Tanker||151_180451.wav,151_180451.wav,Tanker/151_180451.wav,16.0
+train,CHEMBULK LINDY,3,Tanker||114_013848.wav,114_013848.wav,Tanker/114_013848.wav,6.0
+train,CHEMBULK LINDY,3,Tanker||189_081047.wav,189_081047.wav,Tanker/189_081047.wav,10.0
+train,CHEMBULK LINDY,3,Tanker||218_225427.wav,218_225427.wav,Tanker/218_225427.wav,50.0
+train,CHEMBULK LINDY,3,Tanker||95_031833.wav,95_031833.wav,Tanker/95_031833.wav,532.0
+val,CHEMBULK LINDY,3,Tanker||143_115751.wav,143_115751.wav,Tanker/143_115751.wav,40.0
+test,CHERRY GALAXY,4,Tanker||176_131726.wav,176_131726.wav,Tanker/176_131726.wav,131.0
+train,CHERRY GALAXY,4,Tanker||2_2.wav,2_2.wav,Tanker/2_2.wav,150.0
+train,CHERRY GALAXY,4,Tanker||45_061514.wav,45_061514.wav,Tanker/45_061514.wav,246.0
+train,CHERRY GALAXY,4,Tanker||50_50.wav,50_50.wav,Tanker/50_50.wav,10.0
+val,CHERRY GALAXY,4,Tanker||87_022836.wav,87_022836.wav,Tanker/87_022836.wav,62.0
+test,COASTAL INSPIRATION,5,Passengership||6_6.wav,6_6.wav,Passengership/6_6.wav,30.0
+train,COASTAL INSPIRATION,5,Passengership||100_013614.wav,100_013614.wav,Passengership/100_013614.wav,56.0
+train,COASTAL INSPIRATION,5,Passengership||118_201835.wav,118_201835.wav,Passengership/118_201835.wav,172.0
+train,COASTAL INSPIRATION,5,Passengership||132_071915.wav,132_071915.wav,Passengership/132_071915.wav,14.0
+train,COASTAL INSPIRATION,5,Passengership||182_061547.wav,182_061547.wav,Passengership/182_061547.wav,235.0
+train,COASTAL INSPIRATION,5,Passengership||189_012450.wav,189_012450.wav,Passengership/189_012450.wav,11.0
+train,COASTAL INSPIRATION,5,Passengership||18_153439.wav,18_153439.wav,Passengership/18_153439.wav,221.0
+train,COASTAL INSPIRATION,5,Passengership||191_012514.wav,191_012514.wav,Passengership/191_012514.wav,6.0
+train,COASTAL INSPIRATION,5,Passengership||192_012612.wav,192_012612.wav,Passengership/192_012612.wav,8.0
+train,COASTAL INSPIRATION,5,Passengership||33_33.wav,33_33.wav,Passengership/33_33.wav,112.0
+train,COASTAL INSPIRATION,5,Passengership||37_37.wav,37_37.wav,Passengership/37_37.wav,162.0
+train,COASTAL INSPIRATION,5,Passengership||60_061551.wav,60_061551.wav,Passengership/60_061551.wav,24.0
+train,COASTAL INSPIRATION,5,Passengership||78_062231.wav,78_062231.wav,Passengership/78_062231.wav,24.0
+val,COASTAL INSPIRATION,5,Passengership||169_012744.wav,169_012744.wav,Passengership/169_012744.wav,46.0
+test,COASTAL RENAISSANCE,6,Passengership||89_012058.wav,89_012058.wav,Passengership/89_012058.wav,50.0
+train,COASTAL RENAISSANCE,6,Passengership||134_023937.wav,134_023937.wav,Passengership/134_023937.wav,22.0
+train,COASTAL RENAISSANCE,6,Passengership||140_071504.wav,140_071504.wav,Passengership/140_071504.wav,284.0
+train,COASTAL RENAISSANCE,6,Passengership||173_201949.wav,173_201949.wav,Passengership/173_201949.wav,176.0
+train,COASTAL RENAISSANCE,6,Passengership||174_062048.wav,174_062048.wav,Passengership/174_062048.wav,25.0
+train,COASTAL RENAISSANCE,6,Passengership||17_17.wav,17_17.wav,Passengership/17_17.wav,26.0
+train,COASTAL RENAISSANCE,6,Passengership||69_011712.wav,69_011712.wav,Passengership/69_011712.wav,67.0
+train,COASTAL RENAISSANCE,6,Passengership||73_152055.wav,73_152055.wav,Passengership/73_152055.wav,7.0
+train,COASTAL RENAISSANCE,6,Passengership||79_201854.wav,79_201854.wav,Passengership/79_201854.wav,24.0
+train,COASTAL RENAISSANCE,6,Passengership||98_152638.wav,98_152638.wav,Passengership/98_152638.wav,178.0
+train,COASTAL RENAISSANCE,6,Passengership||99_012112.wav,99_012112.wav,Passengership/99_012112.wav,274.0
+val,COASTAL RENAISSANCE,6,Passengership||86_013032.wav,86_013032.wav,Passengership/86_013032.wav,53.0
+test,COLUMBIA,7,Passengership||26_035748.wav,26_035748.wav,Passengership/26_035748.wav,319.0
+train,COLUMBIA,7,Passengership||112_033909.wav,112_033909.wav,Passengership/112_033909.wav,370.0
+train,COLUMBIA,7,Passengership||15_042208.wav,15_042208.wav,Passengership/15_042208.wav,458.0
+train,COLUMBIA,7,Passengership||22_041906.wav,22_041906.wav,Passengership/22_041906.wav,385.0
+train,COLUMBIA,7,Passengership||28_110548.wav,28_110548.wav,Passengership/28_110548.wav,253.0
+train,COLUMBIA,7,Passengership||32_32.wav,32_32.wav,Passengership/32_32.wav,54.0
+train,COLUMBIA,7,Passengership||44_184735.wav,44_184735.wav,Passengership/44_184735.wav,230.0
+val,COLUMBIA,7,Passengership||42_035117.wav,42_035117.wav,Passengership/42_035117.wav,322.0
+test,JOSE NARVAEZ,8,Tug||62_144544.wav,62_144544.wav,Tug/62_144544.wav,460.0
+train,JOSE NARVAEZ,8,Tug||13_141340.wav,13_141340.wav,Tug/13_141340.wav,653.0
+train,JOSE NARVAEZ,8,Tug||22_012051.wav,22_012051.wav,Tug/22_012051.wav,630.0
+train,JOSE NARVAEZ,8,Tug||6_095309.wav,6_095309.wav,Tug/6_095309.wav,387.0
+val,JOSE NARVAEZ,8,Tug||18_054508.wav,18_054508.wav,Tug/18_054508.wav,390.0
+test,KENNICOTT,9,Passengership||27_27.wav,27_27.wav,Passengership/27_27.wav,33.0
+train,KENNICOTT,9,Passengership||13_083740.wav,13_083740.wav,Passengership/13_083740.wav,229.0
+train,KENNICOTT,9,Passengership||31_31.wav,31_31.wav,Passengership/31_31.wav,16.0
+train,KENNICOTT,9,Passengership||39_035818.wav,39_035818.wav,Passengership/39_035818.wav,278.0
+train,KENNICOTT,9,Passengership||8_8.wav,8_8.wav,Passengership/8_8.wav,12.0
+val,KENNICOTT,9,Passengership||80_060420.wav,80_060420.wav,Passengership/80_060420.wav,40.0
+test,KIRKEHOLMEN,10,Tanker||41_41.wav,41_41.wav,Tanker/41_41.wav,44.0
+train,KIRKEHOLMEN,10,Tanker||103_213103.wav,103_213103.wav,Tanker/103_213103.wav,130.0
+train,KIRKEHOLMEN,10,Tanker||120_215813.wav,120_215813.wav,Tanker/120_215813.wav,342.0
+train,KIRKEHOLMEN,10,Tanker||127_064114.wav,127_064114.wav,Tanker/127_064114.wav,15.0
+train,KIRKEHOLMEN,10,Tanker||129_202445.wav,129_202445.wav,Tanker/129_202445.wav,204.0
+train,KIRKEHOLMEN,10,Tanker||12_12.wav,12_12.wav,Tanker/12_12.wav,33.0
+train,KIRKEHOLMEN,10,Tanker||133_172736.wav,133_172736.wav,Tanker/133_172736.wav,416.0
+train,KIRKEHOLMEN,10,Tanker||136_215454.wav,136_215454.wav,Tanker/136_215454.wav,410.0
+train,KIRKEHOLMEN,10,Tanker||156_222708.wav,156_222708.wav,Tanker/156_222708.wav,101.0
+train,KIRKEHOLMEN,10,Tanker||159_160715.wav,159_160715.wav,Tanker/159_160715.wav,317.0
+train,KIRKEHOLMEN,10,Tanker||191_212814.wav,191_212814.wav,Tanker/191_212814.wav,10.0
+train,KIRKEHOLMEN,10,Tanker||1_123109.wav,1_123109.wav,Tanker/1_123109.wav,278.0
+train,KIRKEHOLMEN,10,Tanker||214_124208.wav,214_124208.wav,Tanker/214_124208.wav,14.0
+train,KIRKEHOLMEN,10,Tanker||233_183908.wav,233_183908.wav,Tanker/233_183908.wav,19.0
+train,KIRKEHOLMEN,10,Tanker||235_150156.wav,235_150156.wav,Tanker/235_150156.wav,98.0
+train,KIRKEHOLMEN,10,Tanker||30_30.wav,30_30.wav,Tanker/30_30.wav,33.0
+train,KIRKEHOLMEN,10,Tanker||33_33.wav,33_33.wav,Tanker/33_33.wav,16.0
+train,KIRKEHOLMEN,10,Tanker||35_35.wav,35_35.wav,Tanker/35_35.wav,16.0
+train,KIRKEHOLMEN,10,Tanker||47_47.wav,47_47.wav,Tanker/47_47.wav,21.0
+train,KIRKEHOLMEN,10,Tanker||62_200744.wav,62_200744.wav,Tanker/62_200744.wav,29.0
+train,KIRKEHOLMEN,10,Tanker||8_8.wav,8_8.wav,Tanker/8_8.wav,44.0
+train,KIRKEHOLMEN,10,Tanker||97_112445.wav,97_112445.wav,Tanker/97_112445.wav,47.0
+val,KIRKEHOLMEN,10,Tanker||53_212239.wav,53_212239.wav,Tanker/53_212239.wav,34.0
+test,MALASPINA,11,Passengership||4_4.wav,4_4.wav,Passengership/4_4.wav,204.0
+train,MALASPINA,11,Passengership||102_041047.wav,102_041047.wav,Passengership/102_041047.wav,280.0
+train,MALASPINA,11,Passengership||10_041411.wav,10_041411.wav,Passengership/10_041411.wav,364.0
+train,MALASPINA,11,Passengership||12_12.wav,12_12.wav,Passengership/12_12.wav,18.0
+train,MALASPINA,11,Passengership||16_16.wav,16_16.wav,Passengership/16_16.wav,11.0
+train,MALASPINA,11,Passengership||53_053615.wav,53_053615.wav,Passengership/53_053615.wav,53.0
+train,MALASPINA,11,Passengership||56_050212.wav,56_050212.wav,Passengership/56_050212.wav,218.0
+train,MALASPINA,11,Passengership||65_040520.wav,65_040520.wav,Passengership/65_040520.wav,298.0
+val,MALASPINA,11,Passengership||111_043132.wav,111_043132.wav,Passengership/111_043132.wav,74.0
+test,NORD STEADY,12,Tanker||106_050253.wav,106_050253.wav,Tanker/106_050253.wav,220.0
+train,NORD STEADY,12,Tanker||102_231243.wav,102_231243.wav,Tanker/102_231243.wav,509.0
+train,NORD STEADY,12,Tanker||113_234244.wav,113_234244.wav,Tanker/113_234244.wav,42.0
+train,NORD STEADY,12,Tanker||118_180527.wav,118_180527.wav,Tanker/118_180527.wav,91.0
+train,NORD STEADY,12,Tanker||139_232910.wav,139_232910.wav,Tanker/139_232910.wav,150.0
+train,NORD STEADY,12,Tanker||141_053342.wav,141_053342.wav,Tanker/141_053342.wav,87.0
+train,NORD STEADY,12,Tanker||150_231243.wav,150_231243.wav,Tanker/150_231243.wav,369.0
+train,NORD STEADY,12,Tanker||155_013710.wav,155_013710.wav,Tanker/155_013710.wav,25.0
+train,NORD STEADY,12,Tanker||157_150539.wav,157_150539.wav,Tanker/157_150539.wav,370.0
+train,NORD STEADY,12,Tanker||162_150450.wav,162_150450.wav,Tanker/162_150450.wav,498.0
+train,NORD STEADY,12,Tanker||17_173821.wav,17_173821.wav,Tanker/17_173821.wav,360.0
+train,NORD STEADY,12,Tanker||238_052014.wav,238_052014.wav,Tanker/238_052014.wav,79.0
+train,NORD STEADY,12,Tanker||26_141202.wav,26_141202.wav,Tanker/26_141202.wav,348.0
+train,NORD STEADY,12,Tanker||28_203415.wav,28_203415.wav,Tanker/28_203415.wav,390.0
+train,NORD STEADY,12,Tanker||44_030503.wav,44_030503.wav,Tanker/44_030503.wav,208.0
+train,NORD STEADY,12,Tanker||63_204245.wav,63_204245.wav,Tanker/63_204245.wav,363.0
+train,NORD STEADY,12,Tanker||82_104435.wav,82_104435.wav,Tanker/82_104435.wav,296.0
+train,NORD STEADY,12,Tanker||85_095437.wav,85_095437.wav,Tanker/85_095437.wav,15.0
+train,NORD STEADY,12,Tanker||90_112002.wav,90_112002.wav,Tanker/90_112002.wav,11.0
+val,NORD STEADY,12,Tanker||34_005747.wav,34_005747.wav,Tanker/34_005747.wav,258.0
+test,OCEAN BETTY,13,Tug||11_221717.wav,11_221717.wav,Tug/11_221717.wav,746.0
+train,OCEAN BETTY,13,Tug||12_082934.wav,12_082934.wav,Tug/12_082934.wav,931.0
+train,OCEAN BETTY,13,Tug||15_185844.wav,15_185844.wav,Tug/15_185844.wav,400.0
+train,OCEAN BETTY,13,Tug||33_082249.wav,33_082249.wav,Tug/33_082249.wav,612.0
+train,OCEAN BETTY,13,Tug||69_163503.wav,69_163503.wav,Tug/69_163503.wav,866.0
+val,OCEAN BETTY,13,Tug||60_210546.wav,60_210546.wav,Tug/60_210546.wav,786.0
+test,PRINCESS SUPERIOR,14,Cargo||94_141302.wav,94_141302.wav,Cargo/94_141302.wav,426.0
+train,PRINCESS SUPERIOR,14,Cargo||101_075400.wav,101_075400.wav,Cargo/101_075400.wav,319.0
+train,PRINCESS SUPERIOR,14,Cargo||109_141018.wav,109_141018.wav,Cargo/109_141018.wav,667.0
+train,PRINCESS SUPERIOR,14,Cargo||18_18.wav,18_18.wav,Cargo/18_18.wav,436.0
+train,PRINCESS SUPERIOR,14,Cargo||28_074918.wav,28_074918.wav,Cargo/28_074918.wav,488.0
+train,PRINCESS SUPERIOR,14,Cargo||36_075414.wav,36_075414.wav,Cargo/36_075414.wav,267.0
+train,PRINCESS SUPERIOR,14,Cargo||40_135730.wav,40_135730.wav,Cargo/40_135730.wav,537.0
+train,PRINCESS SUPERIOR,14,Cargo||42_134001.wav,42_134001.wav,Cargo/42_134001.wav,406.0
+train,PRINCESS SUPERIOR,14,Cargo||46_134833.wav,46_134833.wav,Cargo/46_134833.wav,586.0
+train,PRINCESS SUPERIOR,14,Cargo||54_080742.wav,54_080742.wav,Cargo/54_080742.wav,395.0
+train,PRINCESS SUPERIOR,14,Cargo||56_075459.wav,56_075459.wav,Cargo/56_075459.wav,543.0
+train,PRINCESS SUPERIOR,14,Cargo||59_080357.wav,59_080357.wav,Cargo/59_080357.wav,307.0
+train,PRINCESS SUPERIOR,14,Cargo||64_141802.wav,64_141802.wav,Cargo/64_141802.wav,559.0
+train,PRINCESS SUPERIOR,14,Cargo||6_6.wav,6_6.wav,Cargo/6_6.wav,487.0
+train,PRINCESS SUPERIOR,14,Cargo||70_030344.wav,70_030344.wav,Cargo/70_030344.wav,373.0
+train,PRINCESS SUPERIOR,14,Cargo||74_140834.wav,74_140834.wav,Cargo/74_140834.wav,410.0
+train,PRINCESS SUPERIOR,14,Cargo||81_032120.wav,81_032120.wav,Cargo/81_032120.wav,551.0
+train,PRINCESS SUPERIOR,14,Cargo||8_8.wav,8_8.wav,Cargo/8_8.wav,279.0
+val,PRINCESS SUPERIOR,14,Cargo||87_140111.wav,87_140111.wav,Cargo/87_140111.wav,411.0
+test,QUEEN OF,15,Passengership||61_175151.wav,61_175151.wav,Passengership/61_175151.wav,143.0
+train,QUEEN OF,15,Passengership||113_224957.wav,113_224957.wav,Passengership/113_224957.wav,140.0
+train,QUEEN OF,15,Passengership||125_201024.wav,125_201024.wav,Passengership/125_201024.wav,544.0
+train,QUEEN OF,15,Passengership||126_235036.wav,126_235036.wav,Passengership/126_235036.wav,8.0
+train,QUEEN OF,15,Passengership||128_184906.wav,128_184906.wav,Passengership/128_184906.wav,19.0
+train,QUEEN OF,15,Passengership||130_161921.wav,130_161921.wav,Passengership/130_161921.wav,230.0
+train,QUEEN OF,15,Passengership||131_163321.wav,131_163321.wav,Passengership/131_163321.wav,158.0
+train,QUEEN OF,15,Passengership||141_134746.wav,141_134746.wav,Passengership/141_134746.wav,274.0
+train,QUEEN OF,15,Passengership||143_234934.wav,143_234934.wav,Passengership/143_234934.wav,120.0
+train,QUEEN OF,15,Passengership||144_185044.wav,144_185044.wav,Passengership/144_185044.wav,31.0
+train,QUEEN OF,15,Passengership||145_034422.wav,145_034422.wav,Passengership/145_034422.wav,196.0
+train,QUEEN OF,15,Passengership||14_14.wav,14_14.wav,Passengership/14_14.wav,48.0
+train,QUEEN OF,15,Passengership||155_033310.wav,155_033310.wav,Passengership/155_033310.wav,368.0
+train,QUEEN OF,15,Passengership||168_031804.wav,168_031804.wav,Passengership/168_031804.wav,108.0
+train,QUEEN OF,15,Passengership||172_225612.wav,172_225612.wav,Passengership/172_225612.wav,236.0
+train,QUEEN OF,15,Passengership||181_125034.wav,181_125034.wav,Passengership/181_125034.wav,73.0
+train,QUEEN OF,15,Passengership||1_1.wav,1_1.wav,Passengership/1_1.wav,37.0
+train,QUEEN OF,15,Passengership||25_034620.wav,25_034620.wav,Passengership/25_034620.wav,118.0
+train,QUEEN OF,15,Passengership||34_174334.wav,34_174334.wav,Passengership/34_174334.wav,346.0
+train,QUEEN OF,15,Passengership||38_034757.wav,38_034757.wav,Passengership/38_034757.wav,238.0
+train,QUEEN OF,15,Passengership||40_174717.wav,40_174717.wav,Passengership/40_174717.wav,429.0
+train,QUEEN OF,15,Passengership||43_124641.wav,43_124641.wav,Passengership/43_124641.wav,282.0
+train,QUEEN OF,15,Passengership||45_175305.wav,45_175305.wav,Passengership/45_175305.wav,320.0
+train,QUEEN OF,15,Passengership||46_174803.wav,46_174803.wav,Passengership/46_174803.wav,337.0
+train,QUEEN OF,15,Passengership||47_224803.wav,47_224803.wav,Passengership/47_224803.wav,320.0
+train,QUEEN OF,15,Passengership||48_124450.wav,48_124450.wav,Passengership/48_124450.wav,351.0
+train,QUEEN OF,15,Passengership||66_224944.wav,66_224944.wav,Passengership/66_224944.wav,50.0
+train,QUEEN OF,15,Passengership||81_035007.wav,81_035007.wav,Passengership/81_035007.wav,8.0
+train,QUEEN OF,15,Passengership||83_225337.wav,83_225337.wav,Passengership/83_225337.wav,123.0
+train,QUEEN OF,15,Passengership||84_174851.wav,84_174851.wav,Passengership/84_174851.wav,118.0
+train,QUEEN OF,15,Passengership||93_124844.wav,93_124844.wav,Passengership/93_124844.wav,122.0
+val,QUEEN OF,15,Passengership||160_063136.wav,160_063136.wav,Passengership/160_063136.wav,152.0
+test,SALISH EAGLE,16,Passengership||92_162550.wav,92_162550.wav,Passengership/92_162550.wav,267.0
+train,SALISH EAGLE,16,Passengership||123_165340.wav,123_165340.wav,Passengership/123_165340.wav,415.0
+train,SALISH EAGLE,16,Passengership||70_201813.wav,70_201813.wav,Passengership/70_201813.wav,12.0
+train,SALISH EAGLE,16,Passengership||74_174012.wav,74_174012.wav,Passengership/74_174012.wav,364.0
+train,SALISH EAGLE,16,Passengership||87_165315.wav,87_165315.wav,Passengership/87_165315.wav,369.0
+train,SALISH EAGLE,16,Passengership||91_191933.wav,91_191933.wav,Passengership/91_191933.wav,26.0
+val,SALISH EAGLE,16,Passengership||82_162940.wav,82_162940.wav,Passengership/82_162940.wav,29.0
+test,SALISH RAVEN,17,Passengership||133_162949.wav,133_162949.wav,Passengership/133_162949.wav,202.0
+train,SALISH RAVEN,17,Passengership||106_143547.wav,106_143547.wav,Passengership/106_143547.wav,39.0
+train,SALISH RAVEN,17,Passengership||153_151655.wav,153_151655.wav,Passengership/153_151655.wav,330.0
+train,SALISH RAVEN,17,Passengership||156_114757.wav,156_114757.wav,Passengership/156_114757.wav,39.0
+train,SALISH RAVEN,17,Passengership||159_153434.wav,159_153434.wav,Passengership/159_153434.wav,364.0
+val,SALISH RAVEN,17,Passengership||146_075607.wav,146_075607.wav,Passengership/146_075607.wav,235.0
+test,SEASPAN COMMANDER,18,Tug||50_094549.wav,50_094549.wav,Tug/50_094549.wav,348.0
+train,SEASPAN COMMANDER,18,Tug||19_101117.wav,19_101117.wav,Tug/19_101117.wav,1051.0
+train,SEASPAN COMMANDER,18,Tug||23_065148.wav,23_065148.wav,Tug/23_065148.wav,290.0
+train,SEASPAN COMMANDER,18,Tug||25_052238.wav,25_052238.wav,Tug/25_052238.wav,921.0
+train,SEASPAN COMMANDER,18,Tug||28_190038.wav,28_190038.wav,Tug/28_190038.wav,330.0
+train,SEASPAN COMMANDER,18,Tug||31_211648.wav,31_211648.wav,Tug/31_211648.wav,334.0
+train,SEASPAN COMMANDER,18,Tug||36_190230.wav,36_190230.wav,Tug/36_190230.wav,662.0
+train,SEASPAN COMMANDER,18,Tug||40_40.wav,40_40.wav,Tug/40_40.wav,200.0
+train,SEASPAN COMMANDER,18,Tug||41_194116.wav,41_194116.wav,Tug/41_194116.wav,614.0
+train,SEASPAN COMMANDER,18,Tug||63_233721.wav,63_233721.wav,Tug/63_233721.wav,267.0
+train,SEASPAN COMMANDER,18,Tug||7_025236.wav,7_025236.wav,Tug/7_025236.wav,389.0
+val,SEASPAN COMMANDER,18,Tug||67_195709.wav,67_195709.wav,Tug/67_195709.wav,370.0
+test,SEASPAN EAGLE,19,Tug||37_071515.wav,37_071515.wav,Tug/37_071515.wav,357.0
+train,SEASPAN EAGLE,19,Tug||38_145149.wav,38_145149.wav,Tug/38_145149.wav,773.0
+train,SEASPAN EAGLE,19,Tug||42_034437.wav,42_034437.wav,Tug/42_034437.wav,310.0
+train,SEASPAN EAGLE,19,Tug||43_081356.wav,43_081356.wav,Tug/43_081356.wav,770.0
+train,SEASPAN EAGLE,19,Tug||45_004027.wav,45_004027.wav,Tug/45_004027.wav,326.0
+train,SEASPAN EAGLE,19,Tug||49_49.wav,49_49.wav,Tug/49_49.wav,190.0
+train,SEASPAN EAGLE,19,Tug||51_065742.wav,51_065742.wav,Tug/51_065742.wav,861.0
+val,SEASPAN EAGLE,19,Tug||47_114556.wav,47_114556.wav,Tug/47_114556.wav,739.0
+test,SEASPAN RAVEN,20,Tug||30_011700.wav,30_011700.wav,Tug/30_011700.wav,576.0
+train,SEASPAN RAVEN,20,Tug||14_161506.wav,14_161506.wav,Tug/14_161506.wav,813.0
+train,SEASPAN RAVEN,20,Tug||2_052000.wav,2_052000.wav,Tug/2_052000.wav,1147.0
+train,SEASPAN RAVEN,20,Tug||34_123228.wav,34_123228.wav,Tug/34_123228.wav,531.0
+train,SEASPAN RAVEN,20,Tug||3_231504.wav,3_231504.wav,Tug/3_231504.wav,656.0
+train,SEASPAN RAVEN,20,Tug||44_145246.wav,44_145246.wav,Tug/44_145246.wav,400.0
+train,SEASPAN RAVEN,20,Tug||48_041322.wav,48_041322.wav,Tug/48_041322.wav,573.0
+train,SEASPAN RAVEN,20,Tug||52_071716.wav,52_071716.wav,Tug/52_071716.wav,860.0
+train,SEASPAN RAVEN,20,Tug||54_005343.wav,54_005343.wav,Tug/54_005343.wav,674.0
+train,SEASPAN RAVEN,20,Tug||59_050224.wav,59_050224.wav,Tug/59_050224.wav,612.0
+train,SEASPAN RAVEN,20,Tug||5_162112.wav,5_162112.wav,Tug/5_162112.wav,626.0
+train,SEASPAN RAVEN,20,Tug||61_114923.wav,61_114923.wav,Tug/61_114923.wav,240.0
+train,SEASPAN RAVEN,20,Tug||64_015934.wav,64_015934.wav,Tug/64_015934.wav,567.0
+train,SEASPAN RAVEN,20,Tug||65_043830.wav,65_043830.wav,Tug/65_043830.wav,417.0
+train,SEASPAN RAVEN,20,Tug||70_215301.wav,70_215301.wav,Tug/70_215301.wav,546.0
+val,SEASPAN RAVEN,20,Tug||8_072235.wav,8_072235.wav,Tug/8_072235.wav,602.0
+test,SEASPAN RELIANT,21,Cargo||82_100039.wav,82_100039.wav,Cargo/82_100039.wav,229.0
+train,SEASPAN RELIANT,21,Cargo||22_002044.wav,22_002044.wav,Cargo/22_002044.wav,357.0
+train,SEASPAN RELIANT,21,Cargo||27_27.wav,27_27.wav,Cargo/27_27.wav,196.0
+train,SEASPAN RELIANT,21,Cargo||29_151043.wav,29_151043.wav,Cargo/29_151043.wav,339.0
+train,SEASPAN RELIANT,21,Cargo||41_41.wav,41_41.wav,Cargo/41_41.wav,183.0
+train,SEASPAN RELIANT,21,Cargo||55_000645.wav,55_000645.wav,Cargo/55_000645.wav,354.0
+train,SEASPAN RELIANT,21,Cargo||5_5.wav,5_5.wav,Cargo/5_5.wav,208.0
+train,SEASPAN RELIANT,21,Cargo||61_054923.wav,61_054923.wav,Cargo/61_054923.wav,344.0
+train,SEASPAN RELIANT,21,Cargo||68_201125.wav,68_201125.wav,Cargo/68_201125.wav,356.0
+train,SEASPAN RELIANT,21,Cargo||75_202122.wav,75_202122.wav,Cargo/75_202122.wav,221.0
+train,SEASPAN RELIANT,21,Cargo||86_054935.wav,86_054935.wav,Cargo/86_054935.wav,208.0
+val,SEASPAN RELIANT,21,Cargo||35_060651.wav,35_060651.wav,Cargo/35_060651.wav,303.0
+test,SEASPAN SWIFT,22,Cargo||104_213748.wav,104_213748.wav,Cargo/104_213748.wav,249.0
+train,SEASPAN SWIFT,22,Cargo||10_10.wav,10_10.wav,Cargo/10_10.wav,291.0
+train,SEASPAN SWIFT,22,Cargo||111_214529.wav,111_214529.wav,Cargo/111_214529.wav,207.0
+train,SEASPAN SWIFT,22,Cargo||17_17.wav,17_17.wav,Cargo/17_17.wav,218.0
+train,SEASPAN SWIFT,22,Cargo||1_1.wav,1_1.wav,Cargo/1_1.wav,457.0
+train,SEASPAN SWIFT,22,Cargo||26_225044.wav,26_225044.wav,Cargo/26_225044.wav,221.0
+train,SEASPAN SWIFT,22,Cargo||30_214753.wav,30_214753.wav,Cargo/30_214753.wav,324.0
+train,SEASPAN SWIFT,22,Cargo||37_113017.wav,37_113017.wav,Cargo/37_113017.wav,465.0
+train,SEASPAN SWIFT,22,Cargo||47_214505.wav,47_214505.wav,Cargo/47_214505.wav,213.0
+train,SEASPAN SWIFT,22,Cargo||60_111402.wav,60_111402.wav,Cargo/60_111402.wav,293.0
+val,SEASPAN SWIFT,22,Cargo||107_112126.wav,107_112126.wav,Cargo/107_112126.wav,235.0
+test,SPIRIT OF,23,Passengership||19_211808.wav,19_211808.wav,Passengership/19_211808.wav,160.0
+train,SPIRIT OF,23,Passengership||162_054035.wav,162_054035.wav,Passengership/162_054035.wav,93.0
+train,SPIRIT OF,23,Passengership||185_182348.wav,185_182348.wav,Passengership/185_182348.wav,411.0
+train,SPIRIT OF,23,Passengership||55_152700.wav,55_152700.wav,Passengership/55_152700.wav,476.0
+train,SPIRIT OF,23,Passengership||59_153853.wav,59_153853.wav,Passengership/59_153853.wav,104.0
+val,SPIRIT OF,23,Passengership||183_212331.wav,183_212331.wav,Passengership/183_212331.wav,394.0
+test,V2V EMPRESS,24,Passengership||109_231129.wav,109_231129.wav,Passengership/109_231129.wav,118.0
+train,V2V EMPRESS,24,Passengership||108_230730.wav,108_230730.wav,Passengership/108_230730.wav,249.0
+train,V2V EMPRESS,24,Passengership||139_191134.wav,139_191134.wav,Passengership/139_191134.wav,217.0
+train,V2V EMPRESS,24,Passengership||147_181647.wav,147_181647.wav,Passengership/147_181647.wav,141.0
+train,V2V EMPRESS,24,Passengership||149_180641.wav,149_180641.wav,Passengership/149_180641.wav,392.0
+train,V2V EMPRESS,24,Passengership||150_181312.wav,150_181312.wav,Passengership/150_181312.wav,72.0
+train,V2V EMPRESS,24,Passengership||167_181453.wav,167_181453.wav,Passengership/167_181453.wav,6.0
+train,V2V EMPRESS,24,Passengership||179_181231.wav,179_181231.wav,Passengership/179_181231.wav,626.0
+train,V2V EMPRESS,24,Passengership||184_181821.wav,184_181821.wav,Passengership/184_181821.wav,60.0
+train,V2V EMPRESS,24,Passengership||188_012316.wav,188_012316.wav,Passengership/188_012316.wav,44.0
+train,V2V EMPRESS,24,Passengership||190_011928.wav,190_011928.wav,Passengership/190_011928.wav,32.0
+train,V2V EMPRESS,24,Passengership||193_012519.wav,193_012519.wav,Passengership/193_012519.wav,156.0
+train,V2V EMPRESS,24,Passengership||76_195844.wav,76_195844.wav,Passengership/76_195844.wav,569.0
+train,V2V EMPRESS,24,Passengership||97_000157.wav,97_000157.wav,Passengership/97_000157.wav,37.0
+val,V2V EMPRESS,24,Passengership||180_182309.wav,180_182309.wav,Passengership/180_182309.wav,106.0

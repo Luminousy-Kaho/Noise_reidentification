@@ -1,0 +1,100 @@
+{
+  "protocol": {
+    "name": "DeepShip-25-identity-strict-RWP",
+    "recording_manifest": "splits/deepship/min5_median_recording_manifest.csv",
+    "segment_manifest": "splits/deepship/min5_median_segment_manifest.csv",
+    "label_map": "splits/deepship/ship_label_map.json",
+    "segment_length_sec": 5.0,
+    "validation_role": "enrollment_gallery",
+    "test_role": "query",
+    "similarity": "cosine",
+    "hard_negative": "same vessel type, different vessel identity"
+  },
+  "shared_training": {
+    "num_classes": 25,
+    "loss": "CrossEntropyLoss",
+    "optimizer": "AdamW",
+    "scheduler": "CosineAnnealingLR",
+    "seed": 42,
+    "sampling": "no_resample",
+    "best_checkpoint_metric": "validation macro-F1"
+  },
+  "logmel": {
+    "sample_rate": 16000,
+    "n_fft": 1024,
+    "win_length": 1024,
+    "hop_length": 512,
+    "n_mels": 128,
+    "fmin": 20.0,
+    "fmax": 8000.0
+  },
+  "models": {
+    "RN18-IN": {
+      "architecture": "ResNet18",
+      "initialization": "ImageNet",
+      "epochs": 30,
+      "batch_size": 24,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001
+    },
+    "RN18-Rnd": {
+      "architecture": "ResNet18",
+      "initialization": "random",
+      "epochs": 30,
+      "batch_size": 24,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001
+    },
+    "ECAPA-CE": {
+      "architecture": "ECAPA-TDNN",
+      "initialization": "random",
+      "channels": 512,
+      "embedding_dim": 192,
+      "epochs": 30,
+      "batch_size": 24,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001
+    },
+    "AST-AS": {
+      "architecture": "Audio Spectrogram Transformer",
+      "initialization": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "initial_epochs": 10,
+      "target_epoch_after_resume": 30,
+      "batch_size": 8,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.0001,
+      "first_resume_restored_optimizer_state": false
+    },
+    "AST-Rnd": {
+      "architecture": "Audio Spectrogram Transformer",
+      "initialization": "random",
+      "initial_epochs": 10,
+      "target_epoch_after_resume": 30,
+      "batch_size": 8,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.0001,
+      "first_resume_restored_optimizer_state": false
+    },
+    "CNN14-AS": {
+      "architecture": "PANNs CNN14",
+      "initialization": "AudioSet Cnn14_mAP=0.431 checkpoint",
+      "initial_epochs": 10,
+      "target_epoch_after_resume": 30,
+      "batch_size": 8,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.0001,
+      "first_resume_restored_optimizer_state": false
+    },
+    "CNN14-Rnd": {
+      "architecture": "PANNs CNN14",
+      "initialization": "random",
+      "initial_epochs": 10,
+      "target_epoch_after_resume": 30,
+      "batch_size": 8,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.0001,
+      "first_resume_restored_optimizer_state": false
+    }
+  }
+}
+

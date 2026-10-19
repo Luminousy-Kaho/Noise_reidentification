@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.8
+torch>=2.3
+torchvision>=0.18
+torchaudio>=2.3
+transformers>=4.40
+

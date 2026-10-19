@@ -1,0 +1,38 @@
+{
+  "task": "six-target multi-label presence classification",
+  "targets": [
+    "SpeedBoat",
+    "QianDao",
+    "KaiYuan",
+    "No7",
+    "GreenCity",
+    "TheEarl"
+  ],
+  "segment_length_sec": 5.0,
+  "hop_length_sec": 5.0,
+  "drop_last": true,
+  "model": "ResNet18",
+  "initialization": "random",
+  "output_dim": 6,
+  "loss": "BCEWithLogitsLoss",
+  "prediction_activation": "sigmoid",
+  "best_checkpoint_metric": "validation mAP",
+  "epochs": 30,
+  "batch_size": 64,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "seed": 42,
+  "oversampling": false,
+  "data_augmentation": false,
+  "background_settings": [
+    "fullDATA",
+    "dataxxxx30",
+    "noDATA"
+  ],
+  "split_types": [
+    "random",
+    "recordingwise"
+  ]
+}
+
