@@ -115,11 +115,6 @@ The script uses only the Python standard library. A successful run ends with:
 ALL SPLIT CHECKS PASSED
 ```
 
-Before publishing a rebuilt package, run the privacy/credential scan as well:
-
-```bash
-python code/audit_release_privacy.py
-```
 
 ## Data availability
 
