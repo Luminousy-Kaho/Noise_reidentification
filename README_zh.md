@@ -123,11 +123,7 @@ python code/verify_splits.py
 python code/build_evaluation_tasks.py --output evaluation_tasks.json
 ```
 
-发布前检查隐私、绝对路径和禁止上传的二进制文件：
 
-```bash
-python code/audit_release_privacy.py
-```
 
 ## 数据说明
 
